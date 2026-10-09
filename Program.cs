@@ -1,5 +1,5 @@
 ﻿using System.Net.Sockets;
-var printerIP = "10.6.51.27";
+var printerIP = "10.6.51.1";
 var printerPort = 9100;
 var baseDirectory = Environment.CurrentDirectory;
 var fileName = "OriginalPdf.pdf";
